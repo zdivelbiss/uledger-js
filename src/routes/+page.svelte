@@ -10,20 +10,4 @@
 </section>
 
 <style lang="scss">
-	section {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		flex: 0.6;
-	}
-
-	h1 {
-		width: 100%;
-	}
-
-	.login-form {
-		display: flex;
-		flex-flow: column nowrap;
-	}
 </style>
